@@ -1,0 +1,33 @@
+#line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(0, 0, 0);
+    background-color: yellow;
+    font-size: 30px;
+    height: 300px;
+    width: 1300px;
+    font-weight: 900;
+}
+body{
+    background-color: rgb(255, 0, 119);
+    background-size: cover;
+    color:white;
+    font-size: 40px;
+    font-weight: 900;
+}
+#list{
+    background-size: cover;
+    color:rgb(255, 238, 0);
+    background-color: black;
+    height: 250px;
+    width: 1300px;
+    font-size: 30px;
+    font-weight: 900;
+    border: 10px solid yellow;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
